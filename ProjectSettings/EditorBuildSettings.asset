@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Easy/CoopLevel1Easy.unity
+    guid: 7724a7aae5475f744b788cdc94d052a0
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Easy/CoopLevel2Easy.unity
+    guid: f7d39c6cd67409c448bc1593e837940e
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Easy/CoopLevel3Easy.unity
+    guid: 1c637413f555333499e7238718b591f4
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Hard/CoopLevel2Hard.unity
+    guid: c85d5858e6ed8a24aa71d206ad30a4c4
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Hard/CoopLevel1Hard.unity
+    guid: 6d5f2b7d5628d824280cb7646d0aa0bb
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Hard/CoopLevel3Hard.unity
+    guid: fc5f409ca7f64d740a99fbb50d822015
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Normal/CoopLevel1.unity
+    guid: 8a105d4be83ab284a97f57a4b2ec4dac
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Normal/CoopLevel2.unity
+    guid: 28fd4d6dec74f1b4fb93b0c17f54de4e
+  - enabled: 1
+    path: Assets/Scripts/Levels/COOP/Normal/CoopLevel3.unity
+    guid: f625b3649adecc8449e112ab5a0b361f
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Easy/Level1Easy.unity
+    guid: 85ecac36b676efc429de870965b6489f
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Easy/Level2Easy.unity
+    guid: 71e2a3a65e23a464c9f909ce91466c7f
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Easy/Level3Easy.unity
+    guid: 6c0d92f5788ae0046b6407db4044f746
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Hard/Level1Hard.unity
+    guid: a8c301a4a324aaf46af96e3fc1c445eb
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Hard/Level2Hard.unity
+    guid: 6d6fa28d370f80541b1de2ed52ea33b4
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Hard/Level3Hard.unity
+    guid: bd558f335a551e34285915e80916a35a
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Normal/Level1.unity
+    guid: 286ec8763cf528c4899eadddea3c2601
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Normal/Level2.unity
+    guid: 55d684988a70da2438c69ba0cdf05352
+  - enabled: 1
+    path: Assets/Scripts/Levels/SINGLE/Normal/Level3.unity
+    guid: c1705288b634e1c40a8ca64d1fa02c52
+  - enabled: 1
+    path: Assets/Scripts/Levels/End.unity
+    guid: 4ab243f32e0351745ab63f2204fea19f
+  - enabled: 1
+    path: Assets/Scripts/Levels/MainMenu.unity
+    guid: ee00f713824a51b40bcbea90cd8ae815
+  m_configObjects: {}
